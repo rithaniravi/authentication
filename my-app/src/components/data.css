@@ -1,0 +1,12 @@
+td, th{
+
+        border: 1px solid#704706;
+        padding: 8px;
+}
+
+th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+
